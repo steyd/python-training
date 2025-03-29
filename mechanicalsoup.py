@@ -1,2 +1,2 @@
 import mechanicalsoup
-browser = mechanicalsoup.StatefulBrowser()
+browser = mechanicalsoup.Browser()
